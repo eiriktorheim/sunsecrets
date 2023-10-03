@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://sunsecrets.no/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://sunsecrets.no/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://sunsecrets.no/collections/all.atom"/>
+  <title>SUNSECRETS</title>
+  <updated>2023-06-28T22:20:17+02:00</updated>
+  <author>
+    <name>SUNSECRETS</name>
+  </author>
+  <entry>
+    <id>https://sunsecrets.no/products/8382782144826</id>
+    <published>2023-06-28T22:20:17+02:00</published>
+    <updated>2023-06-28T22:20:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/provence-badedrakt-striper"/>
+    <title>Provence badedrakt - Striper</title>
+    <s:type>Badedrakt</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/iza-02-maio-listrado.webp?v=1687983619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Badedrakt<br>
+        <strong>Price: </strong>
+            1249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382782144826</id>
+      <title>XS</title>
+      <s:price currency="NOK">1249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382782144826</id>
+      <title>S</title>
+      <s:price currency="NOK">1249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382782144826</id>
+      <title>M</title>
+      <s:price currency="NOK">1249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382782144826</id>
+      <title>L</title>
+      <s:price currency="NOK">1249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382782144826</id>
+      <title>XL</title>
+      <s:price currency="NOK">1249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8382780834106</id>
+    <published>2023-06-28T22:18:37+02:00</published>
+    <updated>2023-06-28T22:18:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/provence-badedrakt"/>
+    <title>Provence badedrakt – Marineblå</title>
+    <s:type></s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/val-maio-azul-02.webp?v=1687983520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382780834106</id>
+      <title>XS</title>
+      <s:price currency="NOK">1249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382780834106</id>
+      <title>S</title>
+      <s:price currency="NOK">1249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382780834106</id>
+      <title>M</title>
+      <s:price currency="NOK">1249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382780834106</id>
+      <title>L</title>
+      <s:price currency="NOK">1249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382780834106</id>
+      <title>XL</title>
+      <s:price currency="NOK">1249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8382772117818</id>
+    <published>2023-06-28T22:14:47+02:00</published>
+    <updated>2023-06-28T22:14:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/monaco-hvit"/>
+    <title>Monaco - Hvit</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/valeria-01-mo-naco-branco.webp?v=1687983288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382772117818</id>
+      <title>XS</title>
+      <s:price currency="NOK">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382772117818</id>
+      <title>S</title>
+      <s:price currency="NOK">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382772117818</id>
+      <title>M</title>
+      <s:price currency="NOK">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382772117818</id>
+      <title>L</title>
+      <s:price currency="NOK">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382772117818</id>
+      <title>XL</title>
+      <s:price currency="NOK">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8382770610490</id>
+    <published>2023-06-28T22:13:25+02:00</published>
+    <updated>2023-06-28T22:13:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/monaco-bikini-striper"/>
+    <title>Monaco Bikini - Striper</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/helena-01.webp?v=1687983207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382770610490</id>
+      <title>XS</title>
+      <s:price currency="NOK">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382770610490</id>
+      <title>S</title>
+      <s:price currency="NOK">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382770610490</id>
+      <title>M</title>
+      <s:price currency="NOK">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382770610490</id>
+      <title>L</title>
+      <s:price currency="NOK">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382770610490</id>
+      <title>XL</title>
+      <s:price currency="NOK">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8382754455866</id>
+    <published>2023-06-28T22:00:26+02:00</published>
+    <updated>2023-06-28T22:00:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/cannes-bikini-striper"/>
+    <title>Cannes Bikini - Striper</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/dai-02.webp?v=1687982658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382754455866</id>
+      <title>Default Title</title>
+      <s:price currency="NOK">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8382753767738</id>
+    <published>2023-06-28T21:59:35+02:00</published>
+    <updated>2023-06-28T21:59:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/cannes-bikinig-navy"/>
+    <title>Cannes Bikini - Navy</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/bkrvn-01_ecbb3b6c-4528-4233-a0bb-5c404927d963.webp?v=1687982535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382753767738</id>
+      <title>XS</title>
+      <s:price currency="NOK">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382753767738</id>
+      <title>S</title>
+      <s:price currency="NOK">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382753767738</id>
+      <title>M</title>
+      <s:price currency="NOK">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382753767738</id>
+      <title>L</title>
+      <s:price currency="NOK">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382753767738</id>
+      <title>XL</title>
+      <s:price currency="NOK">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8382749114682</id>
+    <published>2023-06-28T21:53:43+02:00</published>
+    <updated>2023-06-28T21:53:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/riviera-hvit"/>
+    <title>Riviera - Hvit</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/riviera-white-val-04_1.webp?v=1687982025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382749114682</id>
+      <title>XS</title>
+      <s:price currency="NOK">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382749114682</id>
+      <title>S</title>
+      <s:price currency="NOK">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382749114682</id>
+      <title>M</title>
+      <s:price currency="NOK">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382749114682</id>
+      <title>L</title>
+      <s:price currency="NOK">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382749114682</id>
+      <title>XL</title>
+      <s:price currency="NOK">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8382742921530</id>
+    <published>2023-06-28T21:46:10+02:00</published>
+    <updated>2023-06-28T21:46:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/riviera-marinebla"/>
+    <title>Riviera - Marineblå</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/iza-riviera-azul-01-900-x-1350-px.webp?v=1687981572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382742921530</id>
+      <title>XS</title>
+      <s:price currency="NOK">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382742921530</id>
+      <title>S</title>
+      <s:price currency="NOK">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382742921530</id>
+      <title>M</title>
+      <s:price currency="NOK">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382742921530</id>
+      <title>L</title>
+      <s:price currency="NOK">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382742921530</id>
+      <title>XL</title>
+      <s:price currency="NOK">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8382667751738</id>
+    <published>2023-06-28T19:38:15+02:00</published>
+    <updated>2023-06-28T19:38:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/cannes-bikini-hvit"/>
+    <title>Cannes Bikini - Hvit</title>
+    <s:type>Badedrakt</s:type>
+    <s:vendor>SunSecrets®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/06.webp?v=1687973896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SunSecrets®<br>
+        <strong>Type: </strong>Badedrakt<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382667751738</id>
+      <title>XS</title>
+      <s:price currency="NOK">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382667751738</id>
+      <title>S</title>
+      <s:price currency="NOK">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382667751738</id>
+      <title>M</title>
+      <s:price currency="NOK">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382667751738</id>
+      <title>L</title>
+      <s:price currency="NOK">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8382667751738</id>
+      <title>XL</title>
+      <s:price currency="NOK">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381161242938</id>
+    <published>2023-06-27T21:13:04+02:00</published>
+    <updated>2023-06-27T21:13:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-white"/>
+    <title>Rainbow Bikini White</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/branco-11.webp?v=1687894980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381161242938</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381161242938</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381161242938</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381161242938</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381161242938</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381160915258</id>
+    <published>2023-06-27T21:12:53+02:00</published>
+    <updated>2023-06-27T21:12:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-black"/>
+    <title>Rainbow Bikini - Black</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/full-black-15.webp?v=1687893475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160915258</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160915258</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160915258</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160915258</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160915258</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381160685882</id>
+    <published>2023-06-27T21:12:47+02:00</published>
+    <updated>2023-06-27T21:12:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-purple"/>
+    <title>Rainbow Bikini Purple</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/cana-rio-09.webp?v=1687895293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160685882</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160685882</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160685882</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160685882</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160685882</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381160554810</id>
+    <published>2023-06-27T21:12:41+02:00</published>
+    <updated>2023-06-27T21:12:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-rose-shine"/>
+    <title>Rainbow Bikini Rosé Shine</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/rosa-fluor-13.webp?v=1687894688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160554810</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160554810</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160554810</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160554810</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160554810</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381160489274</id>
+    <published>2023-06-27T21:12:36+02:00</published>
+    <updated>2023-06-27T21:12:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-bubble-gum-pink"/>
+    <title>Rainbow Bikini Bubble Gum Pink</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/chiclete-07.webp?v=1687893755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160489274</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160489274</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160489274</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160489274</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160489274</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381160390970</id>
+    <published>2023-06-27T21:12:30+02:00</published>
+    <updated>2023-06-27T21:12:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-pink"/>
+    <title>Rainbow Bikini Pink</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/pink-01.webp?v=1687894455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160390970</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160390970</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160390970</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160390970</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160390970</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381160063290</id>
+    <published>2023-06-27T21:12:18+02:00</published>
+    <updated>2023-06-27T21:12:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-lavendal"/>
+    <title>Rainbow Bikini Lavendal</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/lavanda-01.webp?v=1687894162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160063290</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160063290</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160063290</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160063290</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381160063290</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381159735610</id>
+    <published>2023-06-27T21:12:11+02:00</published>
+    <updated>2023-06-27T21:12:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-jade"/>
+    <title>Rainbow Bikini Jade</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/jade-02.webp?v=1687893852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159735610</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159735610</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159735610</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159735610</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159735610</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381159604538</id>
+    <published>2023-06-27T21:12:05+02:00</published>
+    <updated>2023-06-27T21:12:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-turkis"/>
+    <title>Rainbow Bikini Turkis</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/ciano-13.webp?v=1687894831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159604538</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159604538</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159604538</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159604538</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159604538</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381159473466</id>
+    <published>2023-06-27T21:11:59+02:00</published>
+    <updated>2023-06-27T21:11:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-pistache"/>
+    <title>Rainbow Bikini Pistache</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/pistache-02.webp?v=1687895025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159473466</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159473466</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159473466</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159473466</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159473466</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381159276858</id>
+    <published>2023-06-27T21:11:51+02:00</published>
+    <updated>2023-06-27T21:11:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-army-green"/>
+    <title>Rainbow Bikini - Army Green</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/military-10.webp?v=1687893292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159276858</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159276858</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159276858</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159276858</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159276858</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381159113018</id>
+    <published>2023-06-27T21:11:44+02:00</published>
+    <updated>2023-06-27T21:11:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-brazilian-green"/>
+    <title>Rainbow Bikini - Brazilian Green</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/bandeira-13.webp?v=1687893663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159113018</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159113018</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159113018</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159113018</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159113018</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381159014714</id>
+    <published>2023-06-27T21:11:36+02:00</published>
+    <updated>2023-06-27T21:11:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-lime"/>
+    <title>Rainbow Bikini Lime</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/green-13.webp?v=1687894314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159014714</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159014714</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159014714</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159014714</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381159014714</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381158818106</id>
+    <published>2023-06-27T21:11:30+02:00</published>
+    <updated>2023-06-27T21:11:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-yellow"/>
+    <title>Rainbow Bikini Yellow</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/yellow-01.webp?v=1687894618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381158818106</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381158818106</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381158818106</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381158818106</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381158818106</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381158588730</id>
+    <published>2023-06-27T21:11:19+02:00</published>
+    <updated>2023-06-27T21:11:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-orange"/>
+    <title>Rainbow Bikini Orange</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/orange-12.webp?v=1687894411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381158588730</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381158588730</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381158588730</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381158588730</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381158588730</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sunsecrets.no/products/8381156524346</id>
+    <published>2023-06-27T21:09:59+02:00</published>
+    <updated>2023-06-27T21:09:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://sunsecrets.no/products/rainbow-bikini-red"/>
+    <title>Rainbow Bikini Red</title>
+    <s:type>Bikini</s:type>
+    <s:vendor>SUNSECRETS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0785/6757/1770/files/red-14.webp?v=1687893002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SUNSECRETS<br>
+        <strong>Type: </strong>Bikini<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381156524346</id>
+      <title>XS</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381156524346</id>
+      <title>S</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381156524346</id>
+      <title>M</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381156524346</id>
+      <title>L</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sunsecrets.no/products/8381156524346</id>
+      <title>XL</title>
+      <s:price currency="NOK">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
